@@ -1,7 +1,11 @@
 <template>
 
-    <div class="footer-bg flex pr-10">
-        <img src="@/images/logo.png" alt="Logo" />
+    <div class="footer-bg flex justify-between">
+        <img class="pl-10 mt-auto mb-auto" src="@/images/logo.png" alt="Logo" />
+
+
+
+
     </div>
 
 </template>
